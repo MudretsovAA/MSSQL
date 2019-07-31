@@ -1,0 +1,1 @@
+﻿ALTER SCHEMA [temp] TRANSFER [dbo].[table2]
